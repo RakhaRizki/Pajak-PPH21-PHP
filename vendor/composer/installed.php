@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'rakha/pph21',
+        'name' => 'rakharizki/pjkpph21',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '6b0200371e3fdf821bfa904518b3f7b6a286a74c',
+        'reference' => '1e2e4886cb870946ce6a9a0d3ffcde677c0823b7',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'rakha/pph21' => array(
+        'rakharizki/pjkpph21' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '6b0200371e3fdf821bfa904518b3f7b6a286a74c',
+            'reference' => '1e2e4886cb870946ce6a9a0d3ffcde677c0823b7',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
