@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'pph21/calculate',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'name' => 'rakha/pph21',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '6b0200371e3fdf821bfa904518b3f7b6a286a74c',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'pph21/calculate' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+        'rakha/pph21' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '6b0200371e3fdf821bfa904518b3f7b6a286a74c',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
